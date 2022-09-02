@@ -87,5 +87,5 @@ def countries_information():
                 print(f'    Informacion paises\n     {countries_list}')       
         except:
             print('Se esperaba un dato numerico')
-
+#llamado de funcion
 countries_information()    
