@@ -1,3 +1,0 @@
-from solucionParcial import solucionParcial
-
-
